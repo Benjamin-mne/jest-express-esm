@@ -38,12 +38,13 @@ Para ejecutar la aplicación en modo de producción, puedes usar el siguiente co
 Se han incluido pruebas automatizadas en el proyecto utilizando Jest. Puedes ejecutar las pruebas con el siguiente comando:
 
 `npm test`
+
+Las pruebas se encuentran en el archivo ping.routes.test.js.
+
 ## Linting
 Este proyecto utiliza StandardJS para el linting del código. Puedes ejecutar el linting con el siguiente comando:
 
 `npm run lint`
-
-Las pruebas se encuentran en el archivo ping.routes.test.js.
 
 ## Contribución
 Si deseas contribuir a este proyecto, ¡estamos abiertos a tus contribuciones! Si tienes sugerencias, problemas o mejoras, no dudes en abrir un issue o enviar una pull request.

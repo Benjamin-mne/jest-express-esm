@@ -10,8 +10,8 @@ Antes de comenzar, asegúrate de tener instalado Node.js en tu sistema. Puedes d
 
 1. Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/tu-usuario/tdd-express.git
-cd tdd-express
+git clone https://github.com/Benjamin-mne/jest-express-esm.git
+cd jest-express-esm
 ```
 
 2. Instala las dependencias utilizando npm:
